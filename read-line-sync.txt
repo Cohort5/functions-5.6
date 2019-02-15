@@ -1,0 +1,32 @@
+https://teamtreehouse.com/community/how-to-get-input-in-the-console-in-nodejs
+
+How to get input in the console in node.js
+
+# npm install readline-sync
+
+var readline = require('readline-sync');
+
+var name = readline.question("What is your name?");
+
+console.log("Hi " + name + ", nice to meet you.");
+
+
+
+Thursday February 14h Assignment
+
+https://github.com/datacharmer/test_db
+A sample MySQL database with an integrated test suite, used to test your applications and database servers
+
+Logic - nested arrays, logic
+
+total yearly salry paid out by department (grouped)
+
+create a summary report by total summary
+
+est_db/load_dept_emp.dump  thru 10030 only
+test_db/load_employees.dump
+test_db/load_salaries1.dump
+
+
+
+
