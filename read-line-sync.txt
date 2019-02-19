@@ -27,6 +27,26 @@ est_db/load_dept_emp.dump  thru 10030 only
 test_db/load_employees.dump
 test_db/load_salaries1.dump
 
+salaries1.txt
+employee.txt
+dept_emp.txt
+
+utf8 - english keyboard language
+fs.readFileSync
+
+const weirdString = `name:Sophie;shape:fox;condition:new`;
+const result = querystring.parse(weirdoString, `;`, `:`);
+
+1. What data do I need to work with from each file, current salray for first twenty 
+2. var business = "Dept Co.";
+3. var departmentId = ["d1", "d2", "d3", "d4"];
+4. var departments = ["management", "development", "sales", "marketing" ];
+5. var emploeeId = [ [100, 102, 103, 104, 105], 
+6. var salaries = [ [], [], [], [], [], [] ]
+7. var employeeName = [ [], [], [], [], [], [] ] 
+
+
+
 
 
 
